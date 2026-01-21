@@ -1,0 +1,4 @@
+FAIL: test_system_boot_basic
+FAIL: test_link_status
+FAIL: test_config_applied
+PASS: test_no_errors
